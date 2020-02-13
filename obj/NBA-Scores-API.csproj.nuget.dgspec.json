@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Documentos\\Projects\\NBA Boxscores\\NBA-Scores-API\\NBA-Scores-API.csproj": {}
+  },
+  "projects": {
+    "C:\\Documentos\\Projects\\NBA Boxscores\\NBA-Scores-API\\NBA-Scores-API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Documentos\\Projects\\NBA Boxscores\\NBA-Scores-API\\NBA-Scores-API.csproj",
+        "projectName": "NBA-Scores-API",
+        "projectPath": "C:\\Documentos\\Projects\\NBA Boxscores\\NBA-Scores-API\\NBA-Scores-API.csproj",
+        "packagesPath": "C:\\Users\\gaston.davola\\.nuget\\packages\\",
+        "outputPath": "C:\\Documentos\\Projects\\NBA Boxscores\\NBA-Scores-API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\gaston.davola\\AppData\\Local\\Microsoft\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gaston.davola\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\gaston.davola\\AppData\\Local\\Microsoft\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
